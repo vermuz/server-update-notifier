@@ -1,0 +1,7 @@
+servers = {
+                 'localhost':{
+                                          'zypper_bin' : '/usr/bin/zypper',
+                                          'authorized_user' : 'mrrobot',
+                                          'authorized_key' : '/home/mrrobot/.ssh/id_rsa'
+                                         },
+                }
